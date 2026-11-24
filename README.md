@@ -5,7 +5,7 @@
 
 **Live site:** [https://0xdhanesh.github.io/System/](https://0xdhanesh.github.io/System/)
 
-A self-contained systems programming curriculum that runs entirely in the browser. No account, no install, and no network required after the page loads. Progress stays on your device via `localStorage`.
+A self-contained systems programming curriculum for absolute beginners that runs entirely in the browser. No account, no install, and no network required after the page loads. Progress stays on your device via `localStorage`.
 
 ---
 
@@ -15,9 +15,10 @@ A self-contained systems programming curriculum that runs entirely in the browse
 | --- | --- |
 | **Tracks** | C, Objective-C, C++, Objective-C++, ARM64, Swift, Shell Scripting, Makefile |
 | **Content** | 57 lessons · 424 concept modules · 57 recall quizzes · 8 interactive mini labs |
-| **Learning loop** | Inspect highlighted code and concepts, mark progress, earn XP, unlock levels and achievements |
+| **Learning loop** | Beginner-first explanations for every concept, mark progress, earn XP, unlock levels and achievements |
 | **Dashboard** | Concept/lesson completion, quiz scores, and study streaks |
 | **Portability** | Export and import progress as JSON from **Progress & backup** |
+| **Code Explainer** | Paste a snippet, pick a language track, and get explainshell-style highlights linked to matching quests |
 
 XP awards: **5** per checked concept · **25** per completed lesson · **30** per perfect quiz. Levels and achievements are derived from progress.
 
